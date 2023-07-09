@@ -14,6 +14,7 @@ The repository currently includes the following algorithms:
 2. Regression with K-NN
 3. Span filter with Naive Bayes
 4. House Price Prediction with Simple Linear Regression
+5. House Price Predicting with Multiple Regression
 
 Each algorithm is implemented as a separate Python module and is accompanied by a Jupyter Notebook that demonstrates its usage on example datasets. The implementation strives for clarity, simplicity and ease of understanding, making it suitable for educational purposes as well.
 

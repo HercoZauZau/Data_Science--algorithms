@@ -42,6 +42,7 @@ Contributions to this repository are welcome! If you have implemented additional
 If you have any suggestions, bug reports, or feature requests, please open an issue on the repository's issue tracker.
 
 I hope you find this repository helpful in your data science journey. Happy exploring and analyzing data with these algorithms!
+
 ---
 
 ## Author
